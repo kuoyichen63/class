@@ -1,0 +1,6 @@
+{
+  "name": "虎尾科大資工系電腦教室排班系統",
+  "description": "提供 601、607、513、502 四間電腦教室的每日八節課排班與預約服務。支援週課表瀏覽、快速點選預約、後台密碼管制、報表統計分析與匯出，完美適應手機與桌機瀏覽。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
